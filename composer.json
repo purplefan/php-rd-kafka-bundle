@@ -1,5 +1,5 @@
 {
-	"name" : "mshauneu/php-rdkafka-bundle",
+	"name" : "purplefan/php-rdkafka-bundle",
 	"type" : "library",
 	"description" : "Integrates php-rdkafka with Symfony2|3",
 	"license" : "MIT",
